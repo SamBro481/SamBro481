@@ -1,7 +1,6 @@
-- I'm Sam
-- IT UG
-- Like Learning new stuff
-- DM @_sam.red on IG to collaborate
+- I'm Sameer
+- IT UG at NIT SXR
+- Like Creating Stuff
 - Thats about it ig
 <!---
 SamBro481/SamBro481 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

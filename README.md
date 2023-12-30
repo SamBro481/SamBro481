@@ -1,4 +1,4 @@
-- I'm Sameer
+- Sameer Rehman
 - IT UG at NIT SXR
 - Like Creating Stuff
 - Thats about it ig
